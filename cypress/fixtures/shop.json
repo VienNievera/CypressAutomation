@@ -1,0 +1,17 @@
+{
+  "stuffedFrog":
+  {
+    "price": 10.99,
+    "quantity": 2
+  },
+  "fluffyBunny":
+  {
+    "price": 9.99,
+    "quantity": 5
+  },
+  "valentineBear":
+  {
+    "price": 14.99,
+    "quantity": 3
+  }
+}

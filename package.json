@@ -1,0 +1,15 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-open": "npx cypress open",
+    "test-run": "npx cypress run --browser chrome"
+  },
+  "author": "Vhien Nievera",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "12.0.2"
+  }
+}
