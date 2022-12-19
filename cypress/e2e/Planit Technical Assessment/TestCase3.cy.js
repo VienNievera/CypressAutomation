@@ -16,7 +16,7 @@ import {
 describe('Test Case 3', () => {
   // Initialize Variables
     let stuffedFrogPrice = 0.0, fluffyBunnyPrice = 0.0, valentineBearPrice = 0.0
-    let stuffedFrogQty = 0, fluffyBunnyQty = 5, valentineBearQty = 3
+    let stuffedFrogQty = 0, fluffyBunnyQty = 0, valentineBearQty = 0
 
     beforeEach(() => {
         cy.fixture('shop').then(function (shop) {
